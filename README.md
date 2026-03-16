@@ -24,7 +24,7 @@
 </div>  
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-Passionate and analytical **Data Scientist** with a strong foundation in **Python, Machine Learning, and Statistical Analysis**. I transform complex data into actionable insights and build intelligent systems that solve real-world problems.
+Data Scientist who enjoys working with Python and Machine Learning to turn data into meaningful insights and real-world solutions.
 
 -  **B.Tech in Data Science** - Teerthanker Mahaveer University
 -  **Expertise**: Machine Learning, Predictive Modeling, Data Visualization
@@ -102,7 +102,7 @@ Passionate and analytical **Data Scientist** with a strong foundation in **Pytho
 
 <div align="center">
 
-###  Data Science Intern  
+##  Data Science Intern  
 **Codect Technologies India** | *Aug 2025 - Oct 2025*
 
 
@@ -118,7 +118,7 @@ Presented insights to stakeholders through interactive dashboards
 
 <br><br>
 
-###  Python Programming Intern  
+##  Python Programming Intern  
 **Codect IT Solutions Pvt Ltd** | *Jul 2025 - Aug 2025*
 
  Automated data processing tasks reducing manual work by 40%  
@@ -148,11 +148,24 @@ Presented insights to stakeholders through interactive dashboards
 
 | Certification                                          | Organization    | Year |
 | ------------------------------------------------------ | --------------- | ---- |
-|  [Python for Data Science](CERTIFICATE_LINK)         | IBM             | 2024 |
-|  [Machine Learning Specialization](CERTIFICATE_LINK) | Stanford Online | 2024 |
-|  [Data Analytics Professional](CERTIFICATE_LINK)     | Google          | 2023 |
-|  [Advanced Machine Learning](CERTIFICATE_LINK)       | Coursera        | 2024 |
-|  [AI & ML Training Program](CERTIFICATE_LINK)        | IIT             | 2024 |
+|  [Getting Started With Data](https://www.credly.com/go/xfaBdBho7bv2XizFFp7SNQ) | IBM | 2026 |
+|  [Deep Learning](https://simpli.app.link/l68qN2W7DUb)     | SimpliLearn        | 2025 |
+|  [SQL](https://www.hackerrank.com/certificates/93a9911f19f0)       | HackerRank        | 2025 |
+|  [Problem Solving](https://www.hackerrank.com/certificates/fed0c5d043ec)        | HackerRank            | 2025 |
+|  [Data Security Management]() | NSDC | 2025 |
+|  [Python ](https://www.hackerrank.com/certificates/a595e3f83464) | HackerRank| 2025 |
+|  [AI/ML Learning Engineer]() | Reliance Foundation | 2025 |
+|  [Get started With Databricks for ML]() | SkillUP | 2025 |
+|  [Data Science Essentials]() | Skilling Academy | 2025 |
+|  [NLP]() | IntelliPaat | 2025 |
+|  [ICAT]() | icat | 2025 |
+|  [ML using Python]() | SimpliLearn | 2025 |
+|  [Data Science With Python]() | Lets Upgrade | 2025 |
+|  [Advanced Data Analysis Using Excel and PowerBI]() | ITM Edtech Training Pvt Ltd. | 2025 |
+|  [HTML]() | IIT Bombay | 2025 |
+|  [Introduction to Computers]() | IIT Bombay | 2024 |
+|  [Soft Skills For IT]() | Great Learning | 2023 |
+
 
 </div>
 
