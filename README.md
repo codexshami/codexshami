@@ -152,15 +152,15 @@ Presented insights to stakeholders through interactive dashboards
 |  [Deep Learning](https://simpli.app.link/l68qN2W7DUb)     | SimpliLearn        | 2025 |
 |  [SQL](https://www.hackerrank.com/certificates/93a9911f19f0)       | HackerRank        | 2025 |
 |  [Problem Solving](https://www.hackerrank.com/certificates/fed0c5d043ec)        | HackerRank            | 2025 |
-|  [Data Security Management]() | NSDC | 2025 |
+|  [Data Security Management](https://drive.google.com/file/d/13F0p5MrEF20Kgxx9MdfLcv5upBXShkTf/view?usp=drive_link) | NSDC | 2025 |
 |  [Python ](https://www.hackerrank.com/certificates/a595e3f83464) | HackerRank| 2025 |
-|  [AI/ML Learning Engineer]() | Reliance Foundation | 2025 |
-|  [Get started With Databricks for ML]() | SkillUP | 2025 |
-|  [Data Science Essentials]() | Skilling Academy | 2025 |
-|  [NLP]() | IntelliPaat | 2025 |
-|  [ICAT]() | icat | 2025 |
-|  [ML using Python]() | SimpliLearn | 2025 |
-|  [Data Science With Python]() | Lets Upgrade | 2025 |
+|  [AI/ML Learning Engineer](https://drive.google.com/file/d/1dx4WEqyP9gfZNq9OJQtY0PQ5ClCyaxPz/view?usp=drive_link) | Reliance Foundation | 2025 |
+|  [Get started With Databricks for ML](https://drive.google.com/file/d/10456GFjAhFpjjn7sqsAOrJria2bODZqc/view?usp=drive_link) | SkillUP | 2025 |
+|  [Data Science Essentials](https://drive.google.com/file/d/1Dea7BAZ2JmPO0n7ceq8I8a1Sh90cO8NL/view?usp=drive_link) | Skilling Academy | 2025 |
+|  [NLP](https://drive.google.com/file/d/1oOFaTAMsGaiiFd6C8JxICbVowwLZ_0i_/view?usp=drive_link) | IntelliPaat | 2025 |
+|  [ICAT](https://drive.google.com/file/d/1n7PfR9jOZY6kGiV3Kz6UMqMMroxJmbtO/view?usp=drive_link) | icat | 2025 |
+|  [ML using Python](https://drive.google.com/file/d/13D9bmbRM10Pt2yKlZ9x371gioPRE2M5_/view?usp=drive_link) | SimpliLearn | 2025 |
+|  [Data Science With Python](https://drive.google.com/file/d/19Yu2K29ZyaNvPrF5RWOboRlLnmJDrjN0/view?usp=drive_link) | Lets Upgrade | 2025 |
 |  [Advanced Data Analysis Using Excel and PowerBI]() | ITM Edtech Training Pvt Ltd. | 2025 |
 |  [HTML]() | IIT Bombay | 2025 |
 |  [Introduction to Computers]() | IIT Bombay | 2024 |
