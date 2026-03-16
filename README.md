@@ -116,7 +116,7 @@ Presented insights to stakeholders through interactive dashboards
 
 <img src="Futureintern.png" width="500">
 
-<br><br>
+<br>
 
 ##  Python Programming Intern  
 **Codect IT Solutions Pvt Ltd** | *Jul 2025 - Aug 2025*
@@ -131,6 +131,8 @@ Presented insights to stakeholders through interactive dashboards
  
 
 <img src="codec.png" width="500">
+
+<br>
 
 </div>
 
@@ -161,10 +163,10 @@ Presented insights to stakeholders through interactive dashboards
 |  [ICAT](https://drive.google.com/file/d/1n7PfR9jOZY6kGiV3Kz6UMqMMroxJmbtO/view?usp=drive_link) | icat | 2025 |
 |  [ML using Python](https://drive.google.com/file/d/13D9bmbRM10Pt2yKlZ9x371gioPRE2M5_/view?usp=drive_link) | SimpliLearn | 2025 |
 |  [Data Science With Python](https://drive.google.com/file/d/19Yu2K29ZyaNvPrF5RWOboRlLnmJDrjN0/view?usp=drive_link) | Lets Upgrade | 2025 |
-|  [Advanced Data Analysis Using Excel and PowerBI]() | ITM Edtech Training Pvt Ltd. | 2025 |
-|  [HTML]() | IIT Bombay | 2025 |
-|  [Introduction to Computers]() | IIT Bombay | 2024 |
-|  [Soft Skills For IT]() | Great Learning | 2023 |
+|  [Advanced Data Analysis Using Excel and PowerBI](https://drive.google.com/file/d/1pkNb71L7PAQcY6n2cDU9StCHZsIJiiwg/view?usp=drive_link) | ITM Edtech Training Pvt Ltd. | 2025 |
+|  [HTML](https://drive.google.com/file/d/1iNySdN_N1npaRUyp8T0n1w9WKT1vSZjD/view?usp=drive_link) | IIT Bombay | 2025 |
+|  [Introduction to Computers](https://drive.google.com/file/d/1BRZLQvV3BdjFx5WemKmJwb1T5HIF2jRK/view?usp=drive_link) | IIT Bombay | 2024 |
+|  [Soft Skills For IT](https://drive.google.com/file/d/12qwEHBq7nADlYs0XYsChnA2SNSOY0fir/view?usp=drive_link) | Great Learning | 2023 |
 
 
 </div>
