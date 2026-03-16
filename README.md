@@ -1,6 +1,4 @@
-# Create a professional GitHub profile README.md
 
-cat > README.md << 'EOF'
 <div align="center">
   
   # 👨‍💻 Mohd Shami
