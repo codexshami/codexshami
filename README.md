@@ -114,7 +114,7 @@ Conducted comprehensive community data research
 
 Presented insights to stakeholders through interactive dashboards  
 
-<img src="certificates/dsintern.png" width="500">
+<img src="Futureintern.png" width="500">
 
 <br><br>
 
@@ -130,7 +130,7 @@ Presented insights to stakeholders through interactive dashboards
  Developed Python scripts for data cleaning and preprocessing 
  
 
-<img src="certificates/ppintern.png" width="500">
+<img src="codec.png" width="500">
 
 </div>
 
