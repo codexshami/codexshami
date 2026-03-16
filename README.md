@@ -15,9 +15,11 @@
 </div>
 
 ---
-
+<div align="center">
+  
 ## 🌟 About Me
 
+</div>  
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 Passionate and analytical **Data Scientist** with a strong foundation in **Python, Machine Learning, and Statistical Analysis**. I transform complex data into actionable insights and build intelligent systems that solve real-world problems.
@@ -31,14 +33,23 @@ Passionate and analytical **Data Scientist** with a strong foundation in **Pytho
 
 ---
 
-## 🛠️ Tech Stack & Tools
+<div align="center">
+  
+### 🛠️ Tech Stack & Tools
+
+</div>
+
+---
 
 ### 👨‍💻 Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
+  
 ### 📊 Data Science & ML
+  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -46,11 +57,14 @@ Passionate and analytical **Data Scientist** with a strong foundation in **Pytho
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 
-### 📈 Data Visualization
+  
+### 📈 Data 
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
 
 ### 🛠️ Development Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -67,9 +81,32 @@ Passionate and analytical **Data Scientist** with a strong foundation in **Pytho
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
+  
+### 🚀 Featured Projects
 
-### 📧 [**HamOrSpam Classifier**](https://github.com/codewithshami/HamOrSpam-Classifier)
+</div>
+
+---
+
+## 🏥 [**Revive – Multi Disease Prediction System**](https://github.com/codewithshami/revive)
+*Machine Learning-based Healthcare Prediction Platform*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Healthcare](https://img.shields.io/badge/Healthcare-00C7B7?style=flat-square&logo=health&logoColor=white)
+
+**🎯 Key Features:**
+- Predicts multiple diseases using trained ML models
+- Supports **Diabetes, Heart, Kidney, Liver, Stroke, and Cancer prediction**
+- Interactive web interface for user input and results
+- Organized project structure with separate ML models
+
+[![Revive Prediction System](img/revive.png)](https://github.com/codewithshami/Revive)
+
+
+## 📧 [**HamOrSpam Classifier**](https://github.com/codexshami/HamOrSpam-Classifier)
 *NLP-based Email Classification System*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -82,11 +119,10 @@ Passionate and analytical **Data Scientist** with a strong foundation in **Pytho
 - 95%+ accuracy in spam detection
 - Real-time classification capability
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codewithshami&repo=HamOrSpam-Classifier&theme=tokyonight)](https://github.com/codewithshami/HamOrSpam-Classifier)
+[![HamOrSpam Classifier](img/hamorspam.png)](https://github.com/codexshami/HamOrSpam-Classifier)
 
----
 
-### 📊 [**Churn Shield AI**](https://github.com/codewithshami/ChurnShieldAI)
+## 📊 [**Churn Shield AI**](https://github.com/codewithshami/ChurnShieldAI)
 *Customer Churn Prediction System*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -99,28 +135,15 @@ Passionate and analytical **Data Scientist** with a strong foundation in **Pytho
 - Interactive dashboards
 - 85% prediction accuracy
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codewithshami&repo=ChurnShieldAI&theme=tokyonight)](https://github.com/codewithshami/ChurnShieldAI)
+[![Churn Sheild-AI](img/churn.png)](https://github.com/codexshami/HamOrSpam-Classifier)
 
 ---
 
-### 🏥 [**Medical Diagnosis System**](https://github.com/codewithshami/Medical-Diagnosis)
-*AI-powered Healthcare Analytics*
+<div align="center">
+  
+### 💼 Professional Experience
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white)
-![Healthcare](https://img.shields.io/badge/Healthcare-00C7B7?style=flat-square&logo=health&logoColor=white)
-
-**🎯 Key Features:**
-- Predictive diagnostic models
-- Patient risk stratification
-- Medical data analysis
-- Treatment recommendation system
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codewithshami&repo=Medical-Diagnosis&theme=tokyonight)](https://github.com/codewithshami/Medical-Diagnosis)
-
----
-
-## 💼 Professional Experience
+</div>
 
 ### 📌 Data Science Intern
 **Codect Technologies India** | *Aug 2025 - Oct 2025*
@@ -128,6 +151,7 @@ Passionate and analytical **Data Scientist** with a strong foundation in **Pytho
 - 🤖 Built predictive models for medical diagnosis with 85% accuracy
 - 📊 Conducted comprehensive community data research
 - 📈 Presented insights to stakeholders through interactive dashboards
+![Data Science Internship Certificate](certificates/dsintern.png)
 
 ### 📌 Python Programming Intern
 **Codect IT Solutions Pvt Ltd** | *Jul 2025 - Aug 2025*
@@ -135,42 +159,74 @@ Passionate and analytical **Data Scientist** with a strong foundation in **Pytho
 - 🧠 Applied ML algorithms for business insights
 - 📉 Performed data analysis using Pandas and NumPy
 - 🛠️ Developed Python scripts for data cleaning and preprocessing
+![Python Internship Certificate](certificates/ppintern.png)
 
 ---
-
-## 🏆 Certifications & Achievements
 
 <div align="center">
   
-| Certification | Organization | Year |
-|--------------|--------------|------|
-| 🐍 Python for Data Science | IBM | 2024 |
-| 🤖 Machine Learning Specialization | Stanford Online | 2024 |
-| 📊 Data Analytics Professional | Google | 2023 |
-| 🧠 Advanced Machine Learning | Coursera | 2024 |
-| 💻 AI & ML Training Program | IIT | 2024 |
+### 🏆 Certifications & Achievements
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+<div align="center">
+
+| Certification                                          | Organization    | Year |
+| ------------------------------------------------------ | --------------- | ---- |
+| 🐍 [Python for Data Science](CERTIFICATE_LINK)         | IBM             | 2024 |
+| 🤖 [Machine Learning Specialization](CERTIFICATE_LINK) | Stanford Online | 2024 |
+| 📊 [Data Analytics Professional](CERTIFICATE_LINK)     | Google          | 2023 |
+| 🧠 [Advanced Machine Learning](CERTIFICATE_LINK)       | Coursera        | 2024 |
+| 💻 [AI & ML Training Program](CERTIFICATE_LINK)        | IIT             | 2024 |
+
+</div>
+
+
+---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithshami&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithshami&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+### 📊 GitHub Analytics
+
+</div>
+
+---
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codexshami&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexshami&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithshami&theme=tokyonight" alt="GitHub Streak"/>
+
+<img src="https://streak-stats.demolab.com?user=codexshami&theme=tokyonight&hide_border=true"/>
+
 </div>
 
+---
+<div align="center">
+  
 ### 📈 Contribution Graph
-<img src="https://activity-graph.herokuapp.com/graph?username=codewithshami&theme=tokyonight&bg_color=0d1117&hide_border=true&area=true" width="100%">
+
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codexshami&theme=tokyo-night&hide_border=true" width="100%"/>
+
 
 ---
 
+<div align="center">
+  
 ## 🎯 Current Focus
+
+</div>
+
+---
 
 - 🔬 Deep Learning & Neural Networks
 - 🚀 MLOps and Model Deployment
@@ -179,7 +235,13 @@ Passionate and analytical **Data Scientist** with a strong foundation in **Pytho
 
 ---
 
+<div align="center">
+
 ## 📫 Let's Connect!
+
+</div>
+
+---
 
 <div align="center">
   
@@ -188,9 +250,9 @@ Passionate and analytical **Data Scientist** with a strong foundation in **Pytho
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamimohd367@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+91%208923591576-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918923591576)
 
-📧 **Email**: shamimohd367@gmail.com  
+📧 **Email**: codexshami.com  
 📞 **Phone**: +91 8923591576  
-🌐 **Portfolio**: [Coming Soon]
+🌐 **Portfolio**: [codexshami.github.io](https://codexshami.github.io)
 
 </div>
 
@@ -206,14 +268,3 @@ Passionate and analytical **Data Scientist** with a strong foundation in **Pytho
 
 </div>
 
-EOF
-
-echo "✅ Professional README.md has been created successfully!"
-echo "📁 File location: $(pwd)/README.md"
-echo ""
-echo "🎨 Next steps:"
-echo "1. Review and customize the content"
-echo "2. Add actual certificate images"
-echo "3. Update project links with your actual repositories"
-echo "4. Create missing repositories (Medical-Diagnosis)"
-echo "5. Commit and push to GitHub"
