@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  # 👨‍💻 Mohd Shami
+  #  Mohd Shami
   
   ### 🚀 Data Scientist | Machine Learning Engineer | AI Enthusiast
   
@@ -10,7 +10,7 @@
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamimohd367@gmail.com)
   [![Phone](https://img.shields.io/badge/Phone-+91%208923591576-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918923591576)
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Data+Scientist;Machine+Learning+Engineer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Data+Scientist;Machine+Learning+Engineer;AI+Engineer;Data+Analyst;Data+Engineer;Problem+Solver" alt="Typing SVG" />
   
 </div>
 
@@ -41,6 +41,8 @@ Passionate and analytical **Data Scientist** with a strong foundation in **Pytho
 
 ---
 
+<div align="center">
+  
 ### 👨‍💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -81,63 +83,14 @@ Passionate and analytical **Data Scientist** with a strong foundation in **Pytho
 
 ---
 
-<div align="center">
-  
-### 🚀 Featured Projects
-
 </div>
 
+
+
 ---
 
-## 🏥 [**Revive – Multi Disease Prediction System**](https://github.com/codewithshami/revive)
-*Machine Learning-based Healthcare Prediction Platform*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Healthcare](https://img.shields.io/badge/Healthcare-00C7B7?style=flat-square&logo=health&logoColor=white)
-
-**🎯 Key Features:**
-- Predicts multiple diseases using trained ML models
-- Supports **Diabetes, Heart, Kidney, Liver, Stroke, and Cancer prediction**
-- Interactive web interface for user input and results
-- Organized project structure with separate ML models
-
-[![Revive Prediction System](img/revive.png)](https://github.com/codewithshami/Revive)
-
-
-## 📧 [**HamOrSpam Classifier**](https://github.com/codexshami/HamOrSpam-Classifier)
-*NLP-based Email Classification System*
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=nlp&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**🎯 Key Features:**
-- Advanced NLP preprocessing pipeline
-- Multiple ML models implementation
-- 95%+ accuracy in spam detection
-- Real-time classification capability
-
-[![HamOrSpam Classifier](img/hamorspam.png)](https://github.com/codexshami/HamOrSpam-Classifier)
-
-
-## 📊 [**Churn Shield AI**](https://github.com/codewithshami/ChurnShieldAI)
-*Customer Churn Prediction System*
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Random Forest](https://img.shields.io/badge/Random_Forest-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
-
-**🎯 Key Features:**
-- Ensemble learning techniques
-- Feature importance analysis
-- Interactive dashboards
-- 85% prediction accuracy
-
-[![Churn Sheild-AI](img/churn.png)](https://github.com/codexshami/HamOrSpam-Classifier)
-
----
+</div>
 
 <div align="center">
   
@@ -145,21 +98,31 @@ Passionate and analytical **Data Scientist** with a strong foundation in **Pytho
 
 </div>
 
-### 📌 Data Science Intern
-**Codect Technologies India** | *Aug 2025 - Oct 2025*
-- 🔬 Implemented data-driven healthcare analysis solutions
-- 🤖 Built predictive models for medical diagnosis with 85% accuracy
-- 📊 Conducted comprehensive community data research
-- 📈 Presented insights to stakeholders through interactive dashboards
-![Data Science Internship Certificate](certificates/dsintern.png)
+<div align="center">
 
-### 📌 Python Programming Intern
+### 📌 Data Science Intern  
+**Codect Technologies India** | *Aug 2025 - Oct 2025*
+
+🔬 Implemented data-driven healthcare analysis solutions  
+🤖 Built predictive models for medical diagnosis with 85% accuracy  
+📊 Conducted comprehensive community data research  
+📈 Presented insights to stakeholders through interactive dashboards  
+
+<img src="certificates/dsintern.png" width="500">
+
+<br><br>
+
+### 📌 Python Programming Intern  
 **Codect IT Solutions Pvt Ltd** | *Jul 2025 - Aug 2025*
-- ⚡ Automated data processing tasks reducing manual work by 40%
-- 🧠 Applied ML algorithms for business insights
-- 📉 Performed data analysis using Pandas and NumPy
-- 🛠️ Developed Python scripts for data cleaning and preprocessing
-![Python Internship Certificate](certificates/ppintern.png)
+
+⚡ Automated data processing tasks reducing manual work by 40%  
+🧠 Applied ML algorithms for business insights  
+📉 Performed data analysis using Pandas and NumPy  
+🛠️ Developed Python scripts for data cleaning and preprocessing  
+
+<img src="certificates/ppintern.png" width="500">
+
+</div>
 
 ---
 
@@ -246,11 +209,11 @@ Passionate and analytical **Data Scientist** with a strong foundation in **Pytho
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/490389f)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithshami)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamimohd367@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codexshami)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codexshami@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+91%208923591576-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918923591576)
 
-📧 **Email**: codexshami.com  
+📧 **Email**: codexshami@gmail.com  
 📞 **Phone**: +91 8923591576  
 🌐 **Portfolio**: [codexshami.github.io](https://codexshami.github.io)
 
