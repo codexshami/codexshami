@@ -17,7 +17,7 @@
 ---
 <div align="center">
   
-### 🌟 About Me
+### 🌟 Profile
 
 ---
 
