@@ -118,12 +118,12 @@ Presented insights to stakeholders through interactive dashboards
 
 <br>
 
-##  Python Programming Intern  
-**Future intern Pvt Ltd** | *Jul 2025 - Aug 2025*
+##  Data Analytics Intern  
+**Future intern Pvt Ltd** | *June 2025 - Aug 2025*
 
- Automated data processing tasks reducing manual work by 40%  
+ PowerBI 
  
- Applied ML algorithms for business insights  
+ Excel
  
  Performed data analysis using Pandas and NumPy
  
