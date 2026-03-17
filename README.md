@@ -103,7 +103,7 @@ Data Scientist who enjoys working with Python and Machine Learning to turn data 
 <div align="center">
 
 ##  Data Science Intern  
-**Codect Technologies India** | *Aug 2025 - Oct 2025*
+**Codec Technologies India** | *Aug 2025 - Oct 2025*
 
 
 Implemented data-driven healthcare analysis solutions  
@@ -114,12 +114,12 @@ Conducted comprehensive community data research
 
 Presented insights to stakeholders through interactive dashboards  
 
-<img src="Futureintern.png" width="500">
+<img src="codec.png" width="500">
 
 <br>
 
 ##  Python Programming Intern  
-**Codect IT Solutions Pvt Ltd** | *Jul 2025 - Aug 2025*
+**Future intern Pvt Ltd** | *Jul 2025 - Aug 2025*
 
  Automated data processing tasks reducing manual work by 40%  
  
@@ -130,7 +130,7 @@ Presented insights to stakeholders through interactive dashboards
  Developed Python scripts for data cleaning and preprocessing 
  
 
-<img src="codec.png" width="500">
+<img src="Futureintern.png" width="500">
 
 <br>
 
