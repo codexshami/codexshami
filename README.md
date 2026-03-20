@@ -150,6 +150,7 @@ Presented insights to stakeholders through interactive dashboards
 
 | Certification                                          | Organization    | Year |
 | ------------------------------------------------------ | --------------- | ---- |
+|  [Problem Farming and Data Analysis Planning](https://www.credly.com/go/0PmSP6X5) | IBM | 2026 |
 |  [Getting Started With Data](https://www.credly.com/go/xfaBdBho7bv2XizFFp7SNQ) | IBM | 2026 |
 |  [Deep Learning](https://simpli.app.link/l68qN2W7DUb)     | SimpliLearn        | 2025 |
 |  [SQL](https://www.hackerrank.com/certificates/93a9911f19f0)       | HackerRank        | 2025 |
