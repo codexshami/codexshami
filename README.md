@@ -184,7 +184,7 @@ Data Scientist who enjoys working with Python and Machine Learning to turn data 
 </div>
 
 <p align="center">
-  <a href="./myyresume.pdf">
+  <a href="./resume.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader" />
   </a>
 </p>
