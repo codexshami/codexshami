@@ -105,10 +105,14 @@ Data Scientist who enjoys working with Python and Machine Learning to turn data 
 ##  Data Science Intern  
 **Codec Technologies India** | *Aug 2025 - Oct 2025*
 
--Developed data-driven solutions to analyze healthcare datasets
--Created predictive models for medical diagnosis with 85% accuracy
--Performed in-depth analysis of community health data to identify key trends
--Communicated insights effectively through interactive dashboards and reports
+-Developed data-driven solutions to analyze healthcare datasets.
+
+-Created predictive models for medical diagnosis with 85% accuracy.
+
+-Performed in-depth analysis of community health data to identify key trends.
+
+-Communicated insights effectively through interactive dashboards and reports.
+
   
 
 <img src="codec.png" width="500">
@@ -118,10 +122,14 @@ Data Scientist who enjoys working with Python and Machine Learning to turn data 
 ##  Data Analytics Intern  
 **Future intern Pvt Ltd** | *June 2025 - Aug 2025*
 
--Utilized Power BI and Microsoft Excel to create interactive dashboards and generate insightful reports
--Performed data analysis using Pandas and NumPy to identify trends and support data-driven decision-making
--Developed Python scripts for data cleaning and preprocessing, improving data accuracy and consistency
--Worked with real-world datasets to transform raw data into meaningful insights for business applications
+-Utilized Power BI and Microsoft Excel to create interactive dashboards and generate insightful reports.
+
+-Performed data analysis using Pandas and NumPy to identify trends and support data-driven decision-making.
+
+-Developed Python scripts for data cleaning and preprocessing, improving data accuracy and consistency.
+
+-Worked with real-world datasets to transform raw data into meaningful insights for business applications.
+
 
 <img src="Futureintern.png" width="500">
 
@@ -167,15 +175,21 @@ Data Scientist who enjoys working with Python and Machine Learning to turn data 
 
 
 ---
-## 📄 Resume
+
+<div align="center">
+
+
+### 📄 Resume
+
+</div>
+
+---
 
 <p align="center">
   <a href="./myyresume.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader" />
   </a>
 </p>
-
----
 
 <div align="center">
   
