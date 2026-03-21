@@ -105,14 +105,11 @@ Data Scientist who enjoys working with Python and Machine Learning to turn data 
 ##  Data Science Intern  
 **Codec Technologies India** | *Aug 2025 - Oct 2025*
 
-
-Implemented data-driven healthcare analysis solutions  
-
-Built predictive models for medical diagnosis with 85% accuracy  
-
-Conducted comprehensive community data research  
-
-Presented insights to stakeholders through interactive dashboards  
+-Developed data-driven solutions to analyze healthcare datasets
+-Created predictive models for medical diagnosis with 85% accuracy
+-Performed in-depth analysis of community health data to identify key trends
+-Communicated insights effectively through interactive dashboards and reports
+  
 
 <img src="codec.png" width="500">
 
@@ -121,14 +118,10 @@ Presented insights to stakeholders through interactive dashboards
 ##  Data Analytics Intern  
 **Future intern Pvt Ltd** | *June 2025 - Aug 2025*
 
- PowerBI 
- 
- Excel
- 
- Performed data analysis using Pandas and NumPy
- 
- Developed Python scripts for data cleaning and preprocessing 
- 
+-Utilized Power BI and Microsoft Excel to create interactive dashboards and generate insightful reports
+-Performed data analysis using Pandas and NumPy to identify trends and support data-driven decision-making
+-Developed Python scripts for data cleaning and preprocessing, improving data accuracy and consistency
+-Worked with real-world datasets to transform raw data into meaningful insights for business applications
 
 <img src="Futureintern.png" width="500">
 
