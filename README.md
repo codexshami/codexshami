@@ -177,7 +177,7 @@ Presented insights to stakeholders through interactive dashboards
 ## 📄 Resume
 
 <p align="center">
-  <a href="./resume.pdf">
+  <a href="./myyresume.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader" />
   </a>
 </p>
