@@ -17,7 +17,7 @@
 ---
 <div align="center">
   
-### 🌟 Profile
+###  Profile
 
 ---
 
@@ -37,7 +37,7 @@ Data Scientist who enjoys working with Python and Machine Learning to turn data 
 
 <div align="center">
   
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 </div>
 
@@ -92,8 +92,10 @@ Data Scientist who enjoys working with Python and Machine Learning to turn data 
 
 </div>
 
+<div align="center">
 
-### 🏆 Certifications & Achievements
+
+###  Certifications & Achievements
 
 </div>
 
@@ -145,7 +147,7 @@ Data Scientist who enjoys working with Python and Machine Learning to turn data 
 
 ---
   
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 </div>
 
@@ -168,7 +170,7 @@ Data Scientist who enjoys working with Python and Machine Learning to turn data 
 ---
 <div align="center">
   
-### 📈 Contribution Graph
+###  Contribution Graph
 
 </div>
 
@@ -179,7 +181,7 @@ Data Scientist who enjoys working with Python and Machine Learning to turn data 
 
 <div align="center">
   
-## 🎯 Current Focus
+##  Current Focus
 
 </div>
 
@@ -194,7 +196,7 @@ Data Scientist who enjoys working with Python and Machine Learning to turn data 
 
 <div align="center">
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 </div>
 
@@ -217,11 +219,11 @@ Data Scientist who enjoys working with Python and Machine Learning to turn data 
 
 <div align="center">
   
-### ⭐ If you like my work, consider giving a star to my repositories!
+###  If you like my work, consider giving a star to my repositories!
 
 <img src="https://komarev.com/ghpvc/?username=codewithshami&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
-**Thanks for visiting!** 👨‍💻
+**Thanks for visiting!** 
 
 </div>
 
