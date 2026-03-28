@@ -153,13 +153,13 @@ Data Scientist who enjoys working with Python and Machine Learning to turn data 
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codexshami&show_icons=true&theme=tokyonight&cache_seconds=60" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexshami&layout=compact&theme=tokyonight&cache_seconds=60" />
-</p>
+</p> -->
 
 <div align="center">
 
