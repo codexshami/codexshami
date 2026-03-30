@@ -17,9 +17,8 @@
 ---
 <div align="center">
   
-###  Profile
+## Profile
 
----
 
 </div>
 
@@ -36,11 +35,11 @@ Data Scientist who enjoys working with Python and Machine Learning to turn data 
 
 <div align="center">
   
-###  Tech Stack & Tools
+## Tech Stack & Tools
 
 </div>
 
----
+
 
 <div align="center">
   
@@ -70,6 +69,7 @@ Data Scientist who enjoys working with Python and Machine Learning to turn data 
 
 
 ###  Development Tools
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -78,6 +78,7 @@ Data Scientist who enjoys working with Python and Machine Learning to turn data 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ###  Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -86,9 +87,6 @@ Data Scientist who enjoys working with Python and Machine Learning to turn data 
 
 </div>
 
-
-
----
 
 <div align="center">
 
@@ -107,11 +105,10 @@ Data Scientist who enjoys working with Python and Machine Learning to turn data 
 
 ---
   
-###  GitHub Analytics
+## GitHub Analytics
 
 </div>
 
----
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codexshami&show_icons=true&theme=tokyonight&cache_seconds=60" />
@@ -130,14 +127,14 @@ Data Scientist who enjoys working with Python and Machine Learning to turn data 
 ---
 <div align="center">
   
-###  Contribution Graph
+## Contribution Graph
 
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codexshami&theme=tokyo-night&hide_border=true" width="100%"/>
 
 
----
+
 
 <div align="center">
   
@@ -145,7 +142,6 @@ Data Scientist who enjoys working with Python and Machine Learning to turn data 
 
 </div>
 
----
 
 -  Deep Learning & Neural Networks
 -  MLOps and Model Deployment
@@ -160,7 +156,7 @@ Data Scientist who enjoys working with Python and Machine Learning to turn data 
 
 </div>
 
----
+
 
 <div align="center">
   
