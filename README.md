@@ -166,7 +166,6 @@ Data Scientist who enjoys working with Python and Machine Learning to turn data 
 [![Phone](https://img.shields.io/badge/Phone-+91%208923591576-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918923591576)
 
  **Email**: codexshami@gmail.com  
- **Phone**: +91 8923591576  
  **Portfolio**: [codexshami.github.io](https://codexshami.github.io)
 
 </div>
