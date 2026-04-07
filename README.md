@@ -6,8 +6,8 @@
   ###  Data Scientist | Machine Learning & AI | Mathematics | Problem Solving
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/490389f)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithshami)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamimohd367@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codexshami)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codexshami@gmail.com)
   [![Phone](https://img.shields.io/badge/Phone-+91%208923591576-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918923591576)
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Data+Scientist;Machine+Learning+Engineer;AI+Engineer;Data+Analyst;Data+Engineer;Problem+Solver" alt="Typing SVG" />
