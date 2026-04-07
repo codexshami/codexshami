@@ -110,11 +110,10 @@ Data Scientist with expertise in Python, Machine Learning, and AI. Passionate ab
 ---
 
 <div align="center">
+If you like my work, consider giving a star to my repositories!
 
-<img src="https://komarev.com/ghpvc/?username=codexshami&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=codewithshami&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+Thanks for visiting!
 
- *If you like my work, consider giving a star to my repositories!*
-
-**Thanks for visiting! 🚀**
 
 </div>
