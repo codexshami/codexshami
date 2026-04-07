@@ -18,12 +18,12 @@
 
 Data Scientist with expertise in Python, Machine Learning, and AI. Passionate about transforming complex data into actionable business insights and scalable solutions.
 
-- ** Education**: B.Tech in Data Science - Teerthanker Mahaveer University
-- ** Expertise**: Machine Learning, Predictive Modeling, Data Visualization, NLP
-- ** Currently working on**: Advanced NLP, Deep Learning, and MLOps projects
-- ** Learning**: Transformers, Deep Learning, MLOps
-- ** Goal**: Leverage AI to solve critical business challenges
-- ** Fun fact**: Active open-source contributor and technology enthusiast
+- **Education**: B.Tech in Data Science - Teerthanker Mahaveer University
+- **Expertise**: Machine Learning, Predictive Modeling, Data Visualization, NLP
+- **Currently working on**: Advanced NLP, Deep Learning, and MLOps projects
+- **Learning**: Transformers, Deep Learning, MLOps
+- **Goal**: Leverage AI to solve critical business challenges
+- **Fun fact**: Active open-source contributor and technology enthusiast
 
 ---
 
@@ -110,9 +110,11 @@ Data Scientist with expertise in Python, Machine Learning, and AI. Passionate ab
 ---
 
 <div align="center">
+  
 If you like my work, consider giving a star to my repositories!
 
 <img src="https://komarev.com/ghpvc/?username=codewithshami&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+
 Thanks for visiting!
 
 
