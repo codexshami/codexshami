@@ -14,20 +14,20 @@
 
 ---
 
-## 👨‍💼 Professional Summary
+##  Professional Summary
 
 Data Scientist with expertise in Python, Machine Learning, and AI. Passionate about transforming complex data into actionable business insights and scalable solutions.
 
-- **🎓 Education**: B.Tech in Data Science - Teerthanker Mahaveer University
-- **💼 Expertise**: Machine Learning, Predictive Modeling, Data Visualization, NLP
-- **🔬 Currently working on**: Advanced NLP, Deep Learning, and MLOps projects
-- **📚 Learning**: Transformers, Deep Learning, MLOps
-- **🎯 Goal**: Leverage AI to solve critical business challenges
-- **⚡ Fun fact**: Active open-source contributor and technology enthusiast
+- ** Education**: B.Tech in Data Science - Teerthanker Mahaveer University
+- ** Expertise**: Machine Learning, Predictive Modeling, Data Visualization, NLP
+- ** Currently working on**: Advanced NLP, Deep Learning, and MLOps projects
+- ** Learning**: Transformers, Deep Learning, MLOps
+- ** Goal**: Leverage AI to solve critical business challenges
+- ** Fun fact**: Active open-source contributor and technology enthusiast
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -63,7 +63,7 @@ Data Scientist with expertise in Python, Machine Learning, and AI. Passionate ab
 
 ---
 
-## 📄 Resume
+##  Resume
 
 <p align="center">
   <a href="./resume.docx">
@@ -73,7 +73,7 @@ Data Scientist with expertise in Python, Machine Learning, and AI. Passionate ab
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=codexshami&theme=tokyonight&hide_border=true&border=round&background=0D1117"/>
@@ -85,7 +85,7 @@ Data Scientist with expertise in Python, Machine Learning, and AI. Passionate ab
 
 ---
 
-## 🎯 Current Focus Areas
+##  Current Focus Areas
 
 - **Deep Learning & Neural Networks**
 - **MLOps and Model Deployment**
@@ -94,7 +94,7 @@ Data Scientist with expertise in Python, Machine Learning, and AI. Passionate ab
 
 ---
 
-## 📬 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
@@ -113,7 +113,7 @@ Data Scientist with expertise in Python, Machine Learning, and AI. Passionate ab
 
 <img src="https://komarev.com/ghpvc/?username=codexshami&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+ *If you like my work, consider giving a star to my repositories!*
 
 **Thanks for visiting! 🚀**
 
