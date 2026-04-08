@@ -66,7 +66,7 @@ Data Scientist with expertise in Python, Machine Learning, and AI. Passionate ab
 ##  Resume
 
 <p align="center">
-  <a href="./resume.docx">
+  <a href="./resume.pdf">
     <img src="https://img.shields.io/badge/Download_Resume-007ACC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
   </a>
 </p>
