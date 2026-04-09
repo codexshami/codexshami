@@ -76,10 +76,6 @@ Data Scientist with expertise in Python, Machine Learning, and AI. Passionate ab
 ##  GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=codexshami&theme=tokyonight&hide_border=true&border=round&background=0D1117"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codexshami&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
