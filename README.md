@@ -77,8 +77,6 @@ Data Scientist with expertise in Python, Machine Learning, and AI. Passionate ab
 
 ##  Let's Connect!
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/490389f)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codexshami)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codexshami@gmail.com)
@@ -86,17 +84,5 @@ Data Scientist with expertise in Python, Machine Learning, and AI. Passionate ab
 
 **Email**: codexshami@gmail.com
 
-</div>
 
 ---
-
-<div align="center">
-  
-If you like my work, consider giving a star to my repositories!
-
-<img src="https://komarev.com/ghpvc/?username=codewithshami&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-
-Thanks for visiting!
-
-
-</div>
