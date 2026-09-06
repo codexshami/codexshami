@@ -19,7 +19,7 @@
 <!-- Animated SVG wave banner using capsule-render, DOOM gradient -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070508,50:00643D,100:08BF7C&height=260&section=header&text=MOHD%20SHAMI&fontSize=68&fontColor=08BF7C&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=19&descColor=C78F22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070508,50:00643D,100:08BF7C&height=260&section=header&text=MOHD%20SHAMI&fontSize=68&fontColor=08BF7C&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Data%20Engineer%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=19&descColor=C78F22" width="100%"/>
 
 <!-- Animated typing banner: rotates through role/identity lines -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=08BF7C&center=true&vCenter=true&width=750&lines=%3E+Building+intelligent+systems+from+raw+data;%3E+B.Tech+Data+Science+%40+TMU+(2027);%3E+850%2B+DSA+Problems+Solved+%7C+Python+%2F+ML;%3E+Deploying+end-to-end+ML+pipelines;%3E+Currently+exploring+Transformers+%26+LLMs" alt="Typing SVG" />
