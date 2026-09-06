@@ -60,7 +60,7 @@
 ```yaml
 identity:
   name: "Mohd Shami"
-  role: "AI / ML Engineer & Data Analyst"
+  role: "AI / ML Engineer & Data Engineer"
   location: "Moradabad, Uttar Pradesh, India"
   education: "B.Tech in Data Science — Teerthanker Mahaveer University (Expected 2027)"
   cgpa: "8.5 / 10 — Rank 1 in Academic Cohort"
